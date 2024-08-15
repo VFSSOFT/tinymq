@@ -1,0 +1,3 @@
+[submodule "tinyserver"]
+	path = tinyserver
+	url = https://github.com/vfssoft/tinyserver.git

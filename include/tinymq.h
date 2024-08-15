@@ -1,0 +1,7 @@
+
+#ifndef TINYMQ_TINYMQ_H
+#define TINYMQ_TINYMQ_H
+
+
+
+#endif //TINYMQ_TINYMQ_H
